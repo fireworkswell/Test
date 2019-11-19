@@ -1,0 +1,6 @@
+.language{position:absolute;top:12px;right:19px;z-index:100}
+.language strong{display:inline-block;height:15px;color:#5c5c5c;font:.75em/15px Tahoma;margin-right:3px;vertical-align:top}
+.language .toggle{background:none;border:0;cursor:pointer;vertical-align:top;padding:0;height:15px}
+.language ul{position:absolute;top:15px;right:0px;display:none;border:1px solid #d9d9d9;background:#fff;margin:0;padding:0}
+.language li{list-style:none}
+.language li button{display:block;width:61px;padding:3px 8px;font-size:9px;color:#5c5c5c;text-decoration:none;background:none;border:0;text-align:left;white-space:nowrap;cursor:pointer}
